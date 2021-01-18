@@ -5,4 +5,8 @@ Git is free software.
 git new a look status.
 git is a free distributed under the gpl.
 git new a index called stages.
-creat a new branch is very quick & simple.
+<<<<<<< HEAD
+creat a new branch is very quick and simple.
+=======
+creat a new branch is very quick and simple.
+>>>>>>> fea
